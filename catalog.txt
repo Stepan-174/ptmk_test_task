@@ -1,0 +1,82 @@
+[
+  {
+    "full_name": "Ivanov Petr Sergeevich",
+    "birth_date": "2009-07-12",
+    "gender": "Male"
+  },
+  {
+    "full_name": "Smirnova Anna Vladimirovna",
+    "birth_date": "1995-03-25",
+    "gender": "Female"
+  },
+  {
+    "full_name": "Kuznetsov Alexey Mikhailovich",
+    "birth_date": "1988-11-05",
+    "gender": "Male"
+  },
+  {
+    "full_name": "Petrova Elena Sergeevna",
+    "birth_date": "2002-09-17",
+    "gender": "Female"
+  },
+  {
+    "full_name": "Sokolov Dmitry Ivanovich",
+    "birth_date": "1990-01-30",
+    "gender": "Male"
+  },
+  {
+    "full_name": "Novikova Maria Aleksandrovna",
+    "birth_date": "1997-06-22",
+    "gender": "Female"
+  },
+  {
+    "full_name": "Lebedev Igor Petrovich",
+    "birth_date": "1985-12-10",
+    "gender": "Male"
+  },
+  {
+    "full_name": "Fedorova Olga Nikolaevna",
+    "birth_date": "1993-04-14",
+    "gender": "Female"
+  },
+  {
+    "full_name": "Volkov Sergey Mikhailovich",
+    "birth_date": "2001-08-03",
+    "gender": "Male"
+  },
+  {
+    "full_name": "Morozova Tatiana Vladimirovna",
+    "birth_date": "1989-02-28",
+    "gender": "Female"
+  },
+ {
+    "full_name": "Folkov Sergey Mikhailovich",
+    "birth_date": "2001-08-03",
+    "gender": "Male"
+  },
+{
+    "full_name": "Fedorov Ivan Petrovich",
+    "birth_date": "1985-05-12",
+    "gender": "Male"
+  },
+  {
+    "full_name": "Fomin Alexey Sergeevich",
+    "birth_date": "1990-11-23",
+    "gender": "Male"
+  },
+  {
+    "full_name": "Frolov Dmitry Mikhailovich",
+    "birth_date": "1978-02-14",
+    "gender": "Male"
+  },
+  {
+    "full_name": "Fedorov Sergey Ivanovich",
+    "birth_date": "1995-07-30",
+    "gender": "Male"
+  },
+  {
+    "full_name": "Filatov Nikolay Aleksandrovich",
+    "birth_date": "1988-09-05",
+    "gender": "Male"
+  }
+]
